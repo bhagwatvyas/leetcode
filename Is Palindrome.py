@@ -39,6 +39,7 @@ class Solution:
         if x < 0:
             return False
 
+<<<<<<< HEAD
         num = x
         rev = 0
         power = 0
@@ -63,4 +64,8 @@ class Solution:
 
 sol = Solution()
 print(sol.isPalindrome(121))
+=======
+
+print(isPalindrome(12321))
+>>>>>>> 93d486b5e13f077519eba901b5c8b7f639f873a4
 

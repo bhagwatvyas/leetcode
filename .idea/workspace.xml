@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a07cb76f-9a39-4da7-8486-830307f1db84" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Is Power of Two.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MinStack.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Plus One.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Valid Parantheses.py" />
-    </list>
+    <list default="true" id="a07cb76f-9a39-4da7-8486-830307f1db84" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
