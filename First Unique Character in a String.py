@@ -36,6 +36,15 @@ class Solution(object):
                 solution = indexes[0]
         return solution if found_flag is True else -1
 
+    def firstUniqChar_optimized(self, s):
+        unique = s
+        while unique:
+            if unique[0] in unique[1::]:
+                unique = unique.replace(unique[0], "")
+            else:
+                return s.find(unique[0])
+        return -1
+
 
 sol = Solution()
 print(sol.firstUniqChar("loveleetcode"))
