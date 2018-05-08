@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a07cb76f-9a39-4da7-8486-830307f1db84" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Find All Numbers Disappeared in an Array.py" afterPath="$PROJECT_DIR$/Find All Numbers Disappeared in an Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Island Perimeter.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,16 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LeetCode$scratch_1.coverage" NAME="scratch_1 Coverage Results" MODIFIED="1525800831571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/LeetCode$Is_Palindrome.coverage" NAME="Is Palindrome Coverage Results" MODIFIED="1525277937076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Plus_One.coverage" NAME="Plus One Coverage Results" MODIFIED="1525447778464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Two_Sum_Hash.coverage" NAME="Two_Sum_Hash Coverage Results" MODIFIED="1525275185113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Is_Palindrome__1_.coverage" NAME="Is Palindrome (1) Coverage Results" MODIFIED="1525316935048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$scratch_1.coverage" NAME="scratch_1 Coverage Results" MODIFIED="1525706529348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/LeetCode$Reverse_Integers.coverage" NAME="Reverse Integers Coverage Results" MODIFIED="1525277881315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Valid_Parantheses.coverage" NAME="Valid Parantheses Coverage Results" MODIFIED="1525355958454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Reverse_Vowels.coverage" NAME="Reverse Vowels Coverage Results" MODIFIED="1525749307032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$Find_All_Numbers_Disappeared_in_an_Array.coverage" NAME="Find All Numbers Disappeared in an Array Coverage Results" MODIFIED="1525796030598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$Is_Palindrome.coverage" NAME="Is Palindrome Coverage Results" MODIFIED="1525277937076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$Plus_One.coverage" NAME="Plus One Coverage Results" MODIFIED="1525447778464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Find_All_Numbers_Disappeared_in_an_Array.coverage" NAME="Find All Numbers Disappeared in an Array Coverage Results" MODIFIED="1525799979877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode$Island_Perimeter.coverage" NAME="Island Perimeter Coverage Results" MODIFIED="1525800859511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$First_Unique_Character_in_a_String.coverage" NAME="First Unique Character in a String Coverage Results" MODIFIED="1525795916351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode$Two_Sum_Hash.coverage" NAME="Two_Sum_Hash Coverage Results" MODIFIED="1525275185113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Two_Sum.coverage" NAME="Two Sum Coverage Results" MODIFIED="1525279390535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode$Is_Power_of_Two.coverage" NAME="Is Power of Two Coverage Results" MODIFIED="1525705734982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -30,48 +32,18 @@
       <file leaf-file-name="scratch_1.py" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            <state relative-caret-position="30">
+              <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Reverse Vowels.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Reverse Vowels.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Find All Numbers Disappeared in an Array.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Find All Numbers Disappeared in an Array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="30" column="40" lean-forward="false" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Guess Number Higher or Lower.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Guess Number Higher or Lower.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="38" column="26" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="38" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="First Unique Character in a String.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/First Unique Character in a String.py">
+      <file leaf-file-name="Island Perimeter.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Island Perimeter.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="403">
-              <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+              <caret line="60" column="11" lean-forward="true" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -100,12 +72,13 @@
         <option value="$PROJECT_DIR$/Valid Parantheses.py" />
         <option value="$PROJECT_DIR$/Plus One.py" />
         <option value="$PROJECT_DIR$/Is Power of Two.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
         <option value="$PROJECT_DIR$/MinStack.py" />
         <option value="$PROJECT_DIR$/Reverse Vowels.py" />
         <option value="$PROJECT_DIR$/Guess Number Higher or Lower.py" />
         <option value="$PROJECT_DIR$/First Unique Character in a String.py" />
         <option value="$PROJECT_DIR$/Find All Numbers Disappeared in an Array.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+        <option value="$PROJECT_DIR$/Island Perimeter.py" />
       </list>
     </option>
   </component>
@@ -171,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Find All Numbers Disappeared in an Array">
+  <component name="RunManager" selected="Python.Island Perimeter">
     <configuration name="Find All Numbers Disappeared in an Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,7 +181,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Is Power of Two" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Island Perimeter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -221,7 +194,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled3" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Is Power of Two.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Island Perimeter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,18 +237,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.scratch_1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Is Power of Two" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Reverse Vowels" />
-      <item index="3" class="java.lang.String" itemvalue="Python.First Unique Character in a String" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Find All Numbers Disappeared in an Array" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Reverse Vowels" />
+      <item index="2" class="java.lang.String" itemvalue="Python.First Unique Character in a String" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Find All Numbers Disappeared in an Array" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Island Perimeter" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Find All Numbers Disappeared in an Array" />
-        <item index="1" class="java.lang.String" itemvalue="Python.First Unique Character in a String" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Reverse Vowels" />
-        <item index="3" class="java.lang.String" itemvalue="Python.scratch_1" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Is Power of Two" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Island Perimeter" />
+        <item index="1" class="java.lang.String" itemvalue="Python.scratch_1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Find All Numbers Disappeared in an Array" />
+        <item index="3" class="java.lang.String" itemvalue="Python.First Unique Character in a String" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Reverse Vowels" />
       </list>
     </recent_temporary>
   </component>
@@ -400,34 +373,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Is Power of Two.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/First Unique Character in a String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Guess Number Higher or Lower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="38" column="26" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="38" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -444,6 +393,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="30" column="40" lean-forward="false" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guess Number Higher or Lower.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="38" column="26" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="38" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First Unique Character in a String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Island Perimeter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="60" column="11" lean-forward="true" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
           <folding />
         </state>
       </provider>
