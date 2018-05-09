@@ -24,5 +24,19 @@ class Solution(object):
             return True
         return False
 
+
+    def judgeCircle_optimized(self, moves):
+        """
+        :type moves: str
+        :rtype: bool
+        """
+        if not moves:
+            return True
+
+        if moves.count('U') == moves.count('D') and moves.count('L') == moves.count('R'):
+            return True
+        else:
+            return False
+
 sol = Solution()
 print(sol.judgeCircle("UDLR"))
